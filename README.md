@@ -1,4 +1,4 @@
-# .NET 7 MVC Application with Auth0 SSO (Google Login)
+# .NET 9 MVC Application with Auth0 SSO (Google Login)
 
 This is a sample **.NET 7 MVC application** demonstrating **single sign-on (SSO)** using **Auth0** and **Google login**.
 
@@ -45,7 +45,7 @@ The project covers:
 
 ## Prerequisites
 
-- [.NET 7 SDK](https://dotnet.microsoft.com/download/dotnet/7.0)  
+- [.NET 7 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)  
 - Auth0 account (free tier available)  
 - Optional: Google OAuth client (for social login)
 
@@ -56,5 +56,9 @@ The project covers:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/dotnet-auth0-sso.git
+git clone [https://github.com/yourusername/dotnet-auth0-sso.git](https://github.com/binodsapkota/Auth0SsoDemo.git)
 cd dotnet-auth0-sso
+
+##Buy Me Coffee
+```bash
+[https://buymeacoffee.com/binodsapkota](https://buymeacoffee.com/binodsapkota)
