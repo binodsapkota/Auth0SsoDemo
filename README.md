@@ -56,7 +56,7 @@ The project covers:
 1. Clone this repository:
 
 ```bash
-git clone [https://github.com/yourusername/dotnet-auth0-sso.git](https://github.com/binodsapkota/Auth0SsoDemo.git)
+git clone [https://github.com/binodsapkota/Auth0SsoDemo.git](https://github.com/binodsapkota/Auth0SsoDemo.git)
 cd dotnet-auth0-sso
 ```
 ## Buy Me Coffee
